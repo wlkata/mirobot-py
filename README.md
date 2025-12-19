@@ -4,6 +4,8 @@
 
 `mirobot` is a python module that can be used to control the [WLkata Mirobot](http://www.wlkata.com/site/index.html)
 
+The library is no longer maintained. Please visit the following link for the latest arm control library: https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython
+
 ![Mirobot](/images/Mirobot_Solo_256.jpg)
 
 This library uses the G code protocol to communicate with the Mirobot over a serial connection. The official **G code instruction set** and **driver download** for the Mirobot can be found at the [WLkata Download Page](http://www.wlkata.com/site/downloads.html)
